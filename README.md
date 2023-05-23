@@ -83,6 +83,7 @@ Identificar, avaliar e adquirir os dados necessários.
 ### Bot no Telegram
 <img src='img/bot_telegram.gif'>
 
+
 ### Ferramentas utilizidas
 <b> Linguagem de programção:</b> Python <br>
 <b>Ambiente de desenvolvimento:</b> Jupyter Notebook, VSCode<br>
