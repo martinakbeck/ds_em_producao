@@ -89,7 +89,7 @@ Identificar, avaliar e adquirir os dados necessários.
 <b>Ambiente de desenvolvimento:</b> Jupyter Notebook, VSCode<br>
 <b>Ferramenta de controle de versão:</b> Git<br>
 <b>Hospedagem em Nuvem:</b> Render<br>
-<b>Bibliotecas:</b> Pandas, Numpy, Inflection, Seaborn, Matplotlib, XGBoost, Pickle, Scipy, Skit<br>
+<b>Bibliotecas:</b> Pandas, Numpy, Inflection, Seaborn, Matplotlib, XGBoost, Pickle, Scipy, Scikit-Learn<br>
 <b>Framework:</b> Flask<br>
 
 ## Próximos Passos:
